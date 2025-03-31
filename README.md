@@ -65,7 +65,8 @@ The KPI table consolidates the most essential performance metrics for retail ana
 The dynamic retail dashboard helps businesses analyze sales and profit data effectively, addressing multiple key problem areas:
 
 1. **Key Performance Indicators (KPIs):** Tracking total sales, total profit, quantity sold, number of orders, and profit margin.  
-    ![image](https://github.com/user-attachments/assets/4b67e069-fc42-41d3-bc3d-308125f94f62)
+    ![image](https://github.com/user-attachments/assets/2edd8598-6b12-4a52-9127-721b15f8c00b)
+
 
 2. **Sales and Profit Analysis:** Understanding overall sales trends and profitability to optimize business strategies.  
     ![image](https://github.com/user-attachments/assets/91778255-e502-4d13-b993-69c7c1a8c1f1)
@@ -98,7 +99,7 @@ The dynamic retail dashboard helps businesses analyze sales and profit data effe
 
 8. **Yearly Sales Trend :** Understanding how sales evolve over the year
 
-![image](https://github.com/user-attachments/assets/e3300e1e-71ed-49a0-8133-72515a8f1b93)
+  ![image](https://github.com/user-attachments/assets/4b67e069-fc42-41d3-bc3d-308125f94f62)
 
 9. **Snapshot of the Dashboard**
 ![image](https://github.com/user-attachments/assets/8fea0086-e07b-45aa-8255-be65dbad45db)
