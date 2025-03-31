@@ -39,27 +39,40 @@ Problem Statements Solved
 The dynamic retail dashboard answers several business questions, providing in-depth insights into key performance areas:
 
 KPIs - Total Sales, Total Profit, Quantity, No. of Orders, Profit Margin
+
 ![image](https://github.com/user-attachments/assets/4b67e069-fc42-41d3-bc3d-308125f94f62)
 
 Sales and Profit Analysis - Understanding overall sales and profitability
+
 ![image](https://github.com/user-attachments/assets/91778255-e502-4d13-b993-69c7c1a8c1f1)
+
 
 Category-wise Profit - Breakdown of profit by product category
 ![image](https://github.com/user-attachments/assets/aa2f0bb6-1992-423f-8050-db1d83a36358)
 
+
 Segment-wise Sales Share % - Breakdown of sales by customer segment
+
 ![image](https://github.com/user-attachments/assets/c9f53a3e-b07d-43dd-b1c7-49f68bd8410e)
 
+
 Sales by Country - Sales performance based on different countries
+
 ![image](https://github.com/user-attachments/assets/848f58a1-9110-44c4-a890-db8ab6a653ec)
 
+
 Top 5 Subcategories - The best-performing subcategories based on sales
+
 ![image](https://github.com/user-attachments/assets/6f59b81e-50d2-416d-aab5-f97a4bd5d2b8)
 
+
 Bottom 5 Subcategories - The least-performing subcategories based on sales
+
 ![image](https://github.com/user-attachments/assets/d9cd8f78-358a-43bc-baa7-13e05777cc1f)
 
+
 Yearly Sales Trend - Understanding how sales evolve over the year
+
 ![image](https://github.com/user-attachments/assets/e3300e1e-71ed-49a0-8133-72515a8f1b93)
 
 Snapshot of the Dashboard
