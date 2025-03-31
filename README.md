@@ -48,6 +48,7 @@ Sales and Profit Analysis - Understanding overall sales and profitability
 
 
 Category-wise Profit - Breakdown of profit by product category
+
 ![image](https://github.com/user-attachments/assets/aa2f0bb6-1992-423f-8050-db1d83a36358)
 
 
