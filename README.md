@@ -39,31 +39,31 @@ Problem Statements Solved
 The dynamic retail dashboard answers several business questions, providing in-depth insights into key performance areas:
 
 KPIs - Total Sales, Total Profit, Quantity, No. of Orders, Profit Margin
-image
+![image](https://github.com/user-attachments/assets/4b67e069-fc42-41d3-bc3d-308125f94f62)
 
 Sales and Profit Analysis - Understanding overall sales and profitability
-image
+![image](https://github.com/user-attachments/assets/91778255-e502-4d13-b993-69c7c1a8c1f1)
 
 Category-wise Profit - Breakdown of profit by product category
-image
+![image](https://github.com/user-attachments/assets/aa2f0bb6-1992-423f-8050-db1d83a36358)
 
 Segment-wise Sales Share % - Breakdown of sales by customer segment
-image
+![image](https://github.com/user-attachments/assets/c9f53a3e-b07d-43dd-b1c7-49f68bd8410e)
 
 Sales by Country - Sales performance based on different countries
-image
+![image](https://github.com/user-attachments/assets/848f58a1-9110-44c4-a890-db8ab6a653ec)
 
 Top 5 Subcategories - The best-performing subcategories based on sales
-image
+![image](https://github.com/user-attachments/assets/6f59b81e-50d2-416d-aab5-f97a4bd5d2b8)
 
 Bottom 5 Subcategories - The least-performing subcategories based on sales
-image
+![image](https://github.com/user-attachments/assets/d9cd8f78-358a-43bc-baa7-13e05777cc1f)
 
 Yearly Sales Trend - Understanding how sales evolve over the year
-image
+![image](https://github.com/user-attachments/assets/e3300e1e-71ed-49a0-8133-72515a8f1b93)
 
 Snapshot of the Dashboard
-image
+![image](https://github.com/user-attachments/assets/8fea0086-e07b-45aa-8255-be65dbad45db)
 
 Conclusion
 The Retail Dashboard serves as an invaluable tool for business analysts and retail managers by providing a comprehensive view of sales performance. The dashboard aggregates data from key business areas and visualizes them dynamically, allowing for quick decision-making. With its ability to calculate essential KPIs and generate detailed analyses across different product categories, regions, and time periods, the dashboard ensures that stakeholders can make data-driven decisions to optimize retail operations.
